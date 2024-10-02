@@ -1,6 +1,6 @@
-package cf.rodolfo.Introducao;
+package cf.rodolfo.Introduction;
 
-public class Aula02_TiposPrimitivos {
+public class Class02_PrimitiveTypes {
 	public static void main(String[] args) {
 		// int, double, float, char, byte, short, long, boolean
 		int age = 10;

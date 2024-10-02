@@ -1,6 +1,6 @@
-package cf.rodolfo.Introducao;
+package cf.rodolfo.Introduction;
 
-public class Aula03_TiposPrimitivosExercicio {
+public class Class03_PrimitiveTypesExercise {
 	public static void main(String[] args) {
 		String name = "Goku";
 		String adress = "Rua Kakaroto 123 - Kame";
